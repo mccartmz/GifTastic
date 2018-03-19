@@ -1,0 +1,42 @@
+body{
+	font-family: 'Bungee', cursive;
+}
+
+.container {background-color:  #848484; margin-top: 20px;
+}
+
+h2 {color: red
+}
+
+.btn{
+	background-color: #848484;
+	font-family: 'Bungee', cursive;
+}
+
+.rating{
+	background: black;
+	padding: 10px;	
+	font-family: 'Bungee', cursive;
+	color: white;
+}
+
+.fightersBtn{
+	background-color: #848484;
+	margin: 10px;
+	padding: 8px;
+	font-family: 'Bungee', cursive;
+}
+
+.fightersDiv {
+	display: inline-block;
+	margin: 20px;
+}	
+
+img{
+	height: 200px;
+	width: 220px;
+}
+
+#gifs{
+	margin-left: 170px;
+}
